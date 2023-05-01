@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "342764903189",
+    "project_id": "myfluttercollage-14963",
+    "storage_bucket": "myfluttercollage-14963.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342764903189:android:a29b51db7b2477e9dea71c",
+        "android_client_info": {
+          "package_name": "com.example.fireformfield"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342764903189-6fanpb2fcmh3hdnb1h4dfcbnuljolqo4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHZDjk45NHKPhO5ArK2A3gTk0My8hyZQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342764903189-6fanpb2fcmh3hdnb1h4dfcbnuljolqo4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
